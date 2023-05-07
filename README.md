@@ -14,3 +14,6 @@ Una tabla con la indice de satisfacción laboral obtenido de la encuesta, por po
 Un gráfico de barras horizontales con los abandonos por el campo de estudios de los empleados.
 
 5 gráficos circulares con la tasa de abandono por género para cada rango de edad de los empleados.
+
+
+![Imagen Dashboard](https://user-images.githubusercontent.com/122362266/236689937-a7208d4c-63d4-41e8-a8ae-9eac4aac26d2.PNG)
